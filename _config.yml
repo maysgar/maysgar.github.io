@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -33,31 +33,35 @@ projects:
 social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: Ismael Garrido Mansoa
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: igarrido97
   # keybase: your_username
   linkedin: igarridom
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
+  telegram: maysgar
+  twitter: igarrido_97
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
+  youtube: maysgar
 
 topics:
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+    
+  - mame: Java
+    web_url: https://github.com/topics/java
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
+    
   - name: Spark
     web_url: https://spark.apache.org
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/256px-Apache_Spark_logo.svg.png
 
   - name: Web development
-
-  - name: Python
-    web_url: https://github.com/topics/python
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 
   - name: Google Cloud
     web_url: https://github.com/GoogleCloudPlatform
