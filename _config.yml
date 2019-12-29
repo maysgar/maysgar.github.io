@@ -60,6 +60,10 @@ topics:
   - name: Spark
     web_url: https://spark.apache.org
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/256px-Apache_Spark_logo.svg.png
+    
+  - name: React
+    web_url: https://github.com/topics/react
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
 
   - name: Web development
 
